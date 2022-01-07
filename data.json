@@ -1,0 +1,31 @@
+{
+    "books":
+    [
+        {
+            "id":"52",
+            "title":"Letters of Two Brides",
+            "description":"Letters of Two Brides is an epistolary novel. The two brides are Louise de Chaulieu (Madame Gaston) and Ren\u00e9e de Maucombe (Madame l'Estorade). The women became friends during their education at a convent and upon leaving began a life-long correspondence. For a 17 year period, they exchange letters describing their lives.<br \/><br \/>Michelle Crandall reads Renee\u2019s letters, and Kara Shallenberg reads Louise\u2019s. Letters from the men in their lives are read by Peter Yearsley, David Barnes, Denny Sayers, and Sean McKinley",
+            "url_text_source":"https:\/\/www.gutenberg.org\/etext\/1941",
+            "language":"English",
+            "copyright_year":"1902",
+            "num_sections":"57",
+            "url_rss":"https:\/\/librivox.org\/rss\/52",
+            "url_zip_file":"https:\/\/www.archive.org\/download\/letters_brides_0709_librivox\/letters_brides_0709_librivox_64kb_mp3.zip",
+            "url_project":"",
+            "url_librivox":"https:\/\/librivox.org\/letters-of-two-brides-by-honore-de-balzac\/",
+            "url_other":"",
+            "totaltime":"9:09:20",
+            "totaltimesecs":32960,
+            "authors":
+            [
+                {
+                    "id":"86",
+                    "first_name":"Honor\u00e9 de",
+                    "last_name":"Balzac",
+                    "dob":"1799",
+                    "dod":"1850"
+                }
+            ]
+        }
+    ]
+}
